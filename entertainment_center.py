@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 from fresh_tomatoes import open_movies_page
 from media import Movie
 
@@ -16,7 +19,7 @@ il_posto = Movie("Il Posto",
 
 dr_strangelove = Movie("Dr. Strangelove",
                        "\"An insane general triggers a path to nuclear"
-                       " holocaust that a war room full of politicians and"
+                      " holocaust that a war room full of politicians and"
                        " generals frantically tries to stop.\"",
                        "https://www.movieruntime.com/wp-content/uploads/2017/09/tviJ68Wj4glQk3CPMvdvExYHxX.jpg",  # NOQA
                        "https://www.youtube.com/watch?v=IE9CmX15PYA")
@@ -33,7 +36,7 @@ la_jetee = Movie("La Jetée",
                  " wake of World War III's devastation, told through still"
                  " images.\"",
                  "https://intermediodvd.files.wordpress.com/2011/08/la-jetee-poster-2.jpg",  # NOQA
-                 "https://www.youtube.com/watch?v=9GENscwqjzY")
+                 "https://www.youtube.com/watch?v=ge9DpMgaB60")
 
 big_trouble_in_little_china = Movie("Big Trouble in Little China",
                                     "\"An All-American trucker gets dragged"
